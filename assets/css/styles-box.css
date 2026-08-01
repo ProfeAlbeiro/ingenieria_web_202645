@@ -101,6 +101,9 @@ footer{
 
 /* Tablet */
 @media (max-width: 992px) {
+    .contenedor{
+        width: 100%;
+    }    
     nav{
         height: 100px;
     }
@@ -135,9 +138,6 @@ footer{
 
 /* Celular */
 @media (max-width: 768px) {
-    .contenedor{
-        width: 100%;
-    }
     nav{
         height: 150px;
     }
