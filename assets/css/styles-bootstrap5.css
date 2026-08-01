@@ -34,6 +34,19 @@ nav{
     height: 100%;
     padding: 5px;
 }
-header{
-    height: 400px;
+header, section{
+    height: 390px;
 }
+.nos-fila{
+    height: 130px;
+}
+.cont-col-fila-arr{
+    height: 70%;
+}
+.cont-col-fila-abj{
+    height: 30%;
+}
+footer{
+    height: 70px;
+}
+
